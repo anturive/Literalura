@@ -31,6 +31,7 @@ public class Principal {
 
         while (opcion != 0) {
             var menu = """
+                    Elija la opción a través de su número:
                     1.- Busca libro por titulo
                     2.- Listar libros registrados
                     3.- Listar autores registrados
@@ -73,7 +74,7 @@ public class Principal {
         var libroBuscar = sc.nextLine();
 
         String json = consumirAPI.obtenerDatosAPI("/?search=" + URLEncoder.encode(libroBuscar));
-        System.out.println(json);
+        //System.out.println(json);
 
         DatosResults resultados = convertirDatos.convertirDatos(json,DatosResults.class);
 
