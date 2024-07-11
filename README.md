@@ -23,29 +23,29 @@ No se puede registrar el mismo libro 2 veces
 
 ## Intrucciones
 
-![Menu Principal](img/menu.png)
+![Menu Principal](src/main/java/com/challenge/biblioteca/assets/menu.png)
 
 - Opción 1:
     Ingresar el nombre correcto del libro a buscar
     
-    ![Opcion1](img/opcion1.png)
+    ![Opcion1](src/main/java/com/challenge/biblioteca/assets/opcion1.png)
 
 - Opción 2:
     Información de todos los libros en la Base de datos
     
-    ![Opcion2](img/opcion2.png)
+    ![Opcion2](src/main/java/com/challenge/biblioteca/assets/opcion2.png)
 
 - Opción 3:
     Muestra todos los autores registrados junto con la lista de sus libros
     
-    ![Opcion3](img/opcion3.png)
+    ![Opcion3](src/main/java/com/challenge/biblioteca/assets/opcion3.png)
 
 - Opción 4:
     Ingresar un año determinado para buscar los autores vivos
     
-    ![Opcion4](img/opcion4.png)
+    ![Opcion4](src/main/java/com/challenge/biblioteca/assets/opcion4.png)
 
 - Opción 5:
     Ingresar la abreviatura del idioma para listar libros con el respectivo idioma elegido
     
-    ![Opcion5](img/opcion5.png)
+    ![Opcion5](src/main/java/com/challenge/biblioteca/assets/opcion5.png)
